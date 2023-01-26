@@ -1,2 +1,2 @@
 # cot-4500-as1
-Repository for Assignment#1 COT 4500
+The purpose of this repository is to apply my skills in calculus and algebra to coding in python.
