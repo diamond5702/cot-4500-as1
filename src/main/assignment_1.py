@@ -17,4 +17,6 @@ print("/n")
 def chop(num,-places):
   ch: double = num*10^-(places)
   return ch
-print(chop(double_pre(s,c,f),3))
+ch = str(chop(double_pre(s,c,f),4))
+print(str(ch[0:5]))
+print("/n")
